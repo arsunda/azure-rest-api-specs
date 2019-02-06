@@ -3205,7 +3205,7 @@
         "modelAsString": true
       }
     },
-    "AzureFunctionActivity": {
+    "AzureFunctionActivityActivity": {
       "x-ms-discriminator-value": "AzureFunctionActivity",
       "description": "Azure Function activity.",
       "allOf": [
